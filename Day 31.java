@@ -10,9 +10,7 @@ Given the sorted rotated array nums of unique elements, return the minimum eleme
 
 You must write an algorithm that runs in O(log n) time.
 
- 
-
-Example 1:
+example 1:
 
 Input: nums = [3,4,5,1,2]
 Output: 1
